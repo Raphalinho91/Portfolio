@@ -1,5 +1,5 @@
 import React from "react";
-import pgsql from "../assets/PGSQL.png";
+import pgsql from "../assets/PGSQL.webp";
 import * as style from "./style";
 
 const CardPgsql = () => {

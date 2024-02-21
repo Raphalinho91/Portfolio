@@ -10,12 +10,12 @@ import {
   Grid,
 } from "@mui/material";
 import * as style from "./style";
-import Page1 from "../../assets/Page1.png";
-import Page2 from "../../assets/Page2.png";
-import Page3 from "../../assets/Page3.png";
-import Page4 from "../../assets/Page4.png";
-import Page5 from "../../assets/Page5.png";
-import Page6 from "../../assets/Page6.png";
+import Page1 from "../../assets/Page1.webp";
+import Page2 from "../../assets/Page2.webp";
+import Page3 from "../../assets/Page3.webp";
+import Page4 from "../../assets/Page4.webp";
+import Page5 from "../../assets/Page5.webp";
+import Page6 from "../../assets/Page6.webp";
 
 const projects = [
   {
@@ -39,7 +39,7 @@ const projects = [
     description:
       "Site codé avec comme Front React, Redux et Material U.I. comme Back NodeJs et Fastify et comme Base de données MongoDb. Moyen de payement Strype et Paypas intégrer au site. ",
     imageUrl: Page3,
-    projectUrl: "https://se-connaitre.onrender.com",
+    projectUrl: "https://shopAll.onrender.com",
     codeUrl: "https://github.com/Raphalinho91/ShopAll",
   },
   {

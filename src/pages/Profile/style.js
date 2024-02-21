@@ -51,8 +51,8 @@ export const boxImageMe = styled(Box)({
 
 export const StyleImage = styled("img")({
   display: "flex",
-  width: "269px",
-  height: "344px",
+  width: "100%",
+  height: "100%",
   borderRadius: "24px",
   marginTop: "-26px",
   zIndex: "1",

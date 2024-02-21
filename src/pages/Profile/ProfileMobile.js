@@ -1,10 +1,10 @@
 import React from "react";
 import * as style from "./style";
-import PNJUser from "../../assets/PNJUser.png";
+import PNJUser from "../../assets/PNJUser.webp";
 import html from "../../assets/html.svg";
 import css from "../../assets/css.svg";
 import javascript from "../../assets/javascript.svg";
-import mui from "../../assets/MUI.png";
+import mui from "../../assets/MUI.webp";
 import fastify from "../../assets/fastify.svg";
 import node from "../../assets/node.svg";
 import express from "../../assets/express.svg";
@@ -12,7 +12,7 @@ import mongo from "../../assets/mongo.svg";
 import mysql from "../../assets/mysql.svg";
 import react from "../../assets/react.svg";
 import redux from "../../assets/redux.svg";
-import pgsql from "../../assets/PGSQL.png";
+import pgsql from "../../assets/PGSQL.webp";
 
 const ProfileMobile = () => {
   return (

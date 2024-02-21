@@ -1,5 +1,5 @@
 import React from "react";
-import mui from "../assets/MUI.png";
+import mui from "../assets/MUI.webp";
 import * as style from "./style";
 
 const CardMui = () => {
