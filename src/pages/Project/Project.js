@@ -8,6 +8,7 @@ import {
   Button,
   Typography,
   Grid,
+  GlobalStyles,
 } from "@mui/material";
 import * as style from "./style";
 import Page1 from "../../assets/Page1.webp";
@@ -66,6 +67,7 @@ const projects = [
 ];
 
 const Project = () => {
+
   return (
     <style.boxHome id="project">
       <style.containerHome>

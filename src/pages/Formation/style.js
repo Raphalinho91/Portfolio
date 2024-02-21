@@ -1,4 +1,4 @@
-import { Box, Container, Typography, styled } from "@mui/material";
+import { Box, Container, styled } from "@mui/material";
 
 export const boxFormation = styled(Box)({
   display: "flex",
